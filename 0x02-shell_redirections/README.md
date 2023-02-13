@@ -7,3 +7,4 @@ Scripts
 - 4-lastlines: display last 10 lines of "/etc/passwd".
 - 5-firstlines: display first 10 lines of "/etc/passwd".
 - 6-third_line: display 3rd line of 'iacta'.
+- 7-file: create file named "\\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)" containing text "Best School", ending by new line
