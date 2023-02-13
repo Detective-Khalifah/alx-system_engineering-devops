@@ -11,3 +11,4 @@ Scripts
 - 8-cwd_state: (over-)write result of command "ls -la" to file "ls_cwd_content"; create file if it does not exist.
 - 9-duplicate_last_line: duplicate last line of 'iacta'.
 - 10-no_more_js: delete "*.js" (regular) files in current dir & sub-dirs.
+- 11-directories: display count of dirs & sub-dirs (excluding special '.' dirs).
