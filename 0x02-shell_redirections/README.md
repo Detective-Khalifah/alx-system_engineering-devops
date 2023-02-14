@@ -23,3 +23,5 @@ Scripts
 - 20-hiago.
 - 21-reverse.
 - 22-users_and_homes: displays sorted list of all users and corresponding home dirs.
+
+- 102-acrostic.
