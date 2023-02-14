@@ -18,3 +18,4 @@ Scripts
 - 15-countthatword: displays lines in "etc/passwd" containing 'bin'.
 - 16-whatsnext.
 - 17-hidethisword.
+- 18-letteronly: displays all lines of file "/etc/ssh/sshd_config" starting with a letter [of the English aplphabet (a-z)].
