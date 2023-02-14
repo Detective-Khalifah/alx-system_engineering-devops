@@ -21,3 +21,4 @@ Scripts
 - 18-letteronly: displays all lines of file "/etc/ssh/sshd_config" starting with a letter [of the English aplphabet (a-z)].
 - 19-AZ.
 - 20-hiago.
+- 21-reverse.
