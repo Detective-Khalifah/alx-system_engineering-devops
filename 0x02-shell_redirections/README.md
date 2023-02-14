@@ -17,3 +17,4 @@ Scripts
 - 14-findthatword: displays lines in "etc/passwd" containing 'root'.
 - 15-countthatword: displays lines in "etc/passwd" containing 'bin'.
 - 16-whatsnext.
+- 17-hidethisword.
