@@ -24,4 +24,6 @@ Scripts
 - 21-reverse.
 - 22-users_and_homes: displays sorted list of all users and corresponding home dirs.
 
+- 100-empty_casks.
 - 102-acrostic.
+- 103-the_biggest_fan.
