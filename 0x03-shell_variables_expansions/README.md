@@ -5,3 +5,4 @@
 - 4-global_variables: displays list of env vars.
 - 5-local_variables: displays functions, local & env vars.
 - 6-create_local_variable: creates new local var.
+- 7-create_global_variable: exports new global var.
