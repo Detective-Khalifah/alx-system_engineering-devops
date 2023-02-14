@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(whoami)" # x="$(id -u -n)"; echo "hello $x" # echo 'hello ' $whoami $SUDO_USER  echo "hello $USER"; x="whoami" | eval "$x" | y=$(eval "$x") | echo "hello `$y`"; echo "$hello {`whoami`}"
+echo "hello $(whoami)"
